@@ -2,4 +2,4 @@
 **Book Reader** is an app that helps you read books.
 
 ### Note:
-- _This project will be part of my portfolio and is intended to help me practice my skills as a beginner._
+- _This project is a book-reading simulation created for learning and portfolio purposes._
